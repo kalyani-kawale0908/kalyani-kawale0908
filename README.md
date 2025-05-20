@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kalyani-kawale0908
+- 👋 Hi, I’m kalyani kawale
 - 👀 I’m interested in working on projects , coding in java , html , css , c , c++ , Reading books , playing games , drawing .
 - 🌱 I’m currently learning MSc Computer Science
 <!-- - 💞️ I’m looking to collaborate on ...-->
